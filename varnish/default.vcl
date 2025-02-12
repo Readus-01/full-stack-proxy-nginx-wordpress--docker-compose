@@ -14,6 +14,7 @@ acl purge {
     "wordpress";
     "localhost";
     "127.0.0.1";
+    "172.20.0.1";
     "::1";
 }
 
